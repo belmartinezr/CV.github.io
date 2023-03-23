@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV Martinez Retamar</title>.
-    <link rel="stylesheet" type="text/css" href="CV/Estilos.css"/>
+    <link rel="stylesheet" type="text/css" href="main/CV/Estilos.css"/>
 </head>
 
 <body>
@@ -32,7 +32,8 @@
       <p>03437-15606835</p>
 
 
-      <p1>Ponte en contacto conmigo en los horarios de 9:00 a 18:00 horas</p1><button type="button"
+      <p1>Ponte en contacto conmigo en los horarios de 9:00 a 18:00 horas</p1>
+      <button type="button" 
       onclick="document.getElementById('demo').innerHTML = Date()">
       Conoce que horario es en mi pais</button>
 
